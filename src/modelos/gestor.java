@@ -1,6 +1,7 @@
-package interfaces;
+package modelos;
 
-import modelos.gestion;
+import interfaces.gestion;
+
 
 //Sihacemso la clase final, no es posible heredar de ella, clonar el objeto nimodificarla (sobreescribirla)
 final class gestor implements gestion {

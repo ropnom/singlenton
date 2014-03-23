@@ -1,4 +1,4 @@
-package modelos;
+package interfaces;
 
 public interface gestion {
 	
